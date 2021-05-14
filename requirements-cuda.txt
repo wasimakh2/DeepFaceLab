@@ -9,3 +9,4 @@ colorama
 labelme==4.2.9
 tensorflow-gpu==1.13.2
 pyqt5
+pillow>=8.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
